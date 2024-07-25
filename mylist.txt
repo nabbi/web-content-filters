@@ -1,5 +1,6 @@
 
 ! https://old.reddit.com/r/uBlockOrigin/wiki/solutions/youtube
+
 ! YT Homepage and Subscriptions - Hide the Shorts section
 youtube.com##[is-shorts]
 ! YT Menu - Hide the Shorts button
@@ -27,3 +28,8 @@ m.youtube.com##ytm-reel-shelf-renderer
 m.youtube.com##ytm-search ytm-video-with-context-renderer:has([data-style="SHORTS"])
 ! YT Mobile - Hide the Shorts button on Channels
 m.youtube.com##[tab-title="Shorts"]
+
+! TikTok
+tiktok.com
+www.tiktok.com
+
