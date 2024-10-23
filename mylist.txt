@@ -29,6 +29,10 @@ m.youtube.com##ytm-search ytm-video-with-context-renderer:has([data-style="SHORT
 ! YT Mobile - Hide the Shorts button on Channels
 m.youtube.com##[tab-title="Shorts"]
 
+! YT Shorts
+www.youtube.com/shorts
+m.youtube.com/shorts
+
 ! TikTok
 tiktok.com
 www.tiktok.com
